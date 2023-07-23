@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/syncProject3/static/css/main.e6016780.css",
+    "main.js": "/syncProject3/static/js/main.8738d57f.js",
+    "static/media/resume.svg": "/syncProject3/static/media/resume.8001e5910ff084cc5167959bbd3dc090.svg",
+    "index.html": "/syncProject3/index.html",
+    "main.e6016780.css.map": "/syncProject3/static/css/main.e6016780.css.map",
+    "main.8738d57f.js.map": "/syncProject3/static/js/main.8738d57f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6016780.css",
+    "static/js/main.8738d57f.js"
+  ]
+}
